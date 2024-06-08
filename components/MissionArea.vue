@@ -78,7 +78,7 @@
     padding: 4px 30px;
     margin-right: 0.2rem;
     cursor: pointer;
-    background: #ff5316;
+    background: #5cb85c;
     font-weight: 500;
     transition: background ease 0.2s;
     font-size: 18px;
@@ -97,7 +97,7 @@
     position: relative;
     font-size: 20px;
     font-weight: 300;
-    color: #ff5316;
+    color: #5cb85c;
     line-height: 1.7em;
     letter-spacing: 2px;
   }

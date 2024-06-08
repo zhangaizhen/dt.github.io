@@ -3,98 +3,84 @@
     "name": "about",
     "path": "/about",
     "component": "/Users/zaz/Documents/独立开发者/官网模版/dt/pages/about.vue",
-    "chunkName": "pages/about",
-    "_name": "_e7cc1786"
+    "chunkName": "pages/about"
   },
   {
     "name": "contact",
     "path": "/contact",
     "component": "/Users/zaz/Documents/独立开发者/官网模版/dt/pages/contact.vue",
-    "chunkName": "pages/contact",
-    "_name": "_202aa560"
+    "chunkName": "pages/contact"
   },
   {
     "name": "index-2",
     "path": "/index-2",
     "component": "/Users/zaz/Documents/独立开发者/官网模版/dt/pages/index-2.vue",
-    "chunkName": "pages/index-2",
-    "_name": "_0df1f0b2"
+    "chunkName": "pages/index-2"
   },
   {
     "name": "index-3",
     "path": "/index-3",
     "component": "/Users/zaz/Documents/独立开发者/官网模版/dt/pages/index-3.vue",
-    "chunkName": "pages/index-3",
-    "_name": "_0dd5c1b0"
+    "chunkName": "pages/index-3"
   },
   {
     "name": "our-history",
     "path": "/our-history",
     "component": "/Users/zaz/Documents/独立开发者/官网模版/dt/pages/our-history.vue",
-    "chunkName": "pages/our-history",
-    "_name": "_90f7927a"
+    "chunkName": "pages/our-history"
   },
   {
     "name": "our-team",
     "path": "/our-team",
     "component": "/Users/zaz/Documents/独立开发者/官网模版/dt/pages/our-team.vue",
-    "chunkName": "pages/our-team",
-    "_name": "_c8989784"
+    "chunkName": "pages/our-team"
   },
   {
     "name": "posts",
     "path": "/posts",
     "component": "/Users/zaz/Documents/独立开发者/官网模版/dt/pages/posts.vue",
-    "chunkName": "pages/posts",
-    "_name": "_5461b983"
+    "chunkName": "pages/posts"
   },
   {
     "name": "projects",
     "path": "/projects",
     "component": "/Users/zaz/Documents/独立开发者/官网模版/dt/pages/projects.vue",
-    "chunkName": "pages/projects",
-    "_name": "_06282b0c"
+    "chunkName": "pages/projects"
   },
   {
     "name": "services",
     "path": "/services",
     "component": "/Users/zaz/Documents/独立开发者/官网模版/dt/pages/services.vue",
-    "chunkName": "pages/services",
-    "_name": "_4b3d5f44"
+    "chunkName": "pages/services"
   },
   {
     "name": "single-post",
     "path": "/single-post",
     "component": "/Users/zaz/Documents/独立开发者/官网模版/dt/pages/single-post.vue",
-    "chunkName": "pages/single-post",
-    "_name": "_333fb496"
+    "chunkName": "pages/single-post"
   },
   {
     "name": "single-project",
     "path": "/single-project",
     "component": "/Users/zaz/Documents/独立开发者/官网模版/dt/pages/single-project.vue",
-    "chunkName": "pages/single-project",
-    "_name": "_6eaf9cd8"
+    "chunkName": "pages/single-project"
   },
   {
     "name": "single-service",
     "path": "/single-service",
     "component": "/Users/zaz/Documents/独立开发者/官网模版/dt/pages/single-service.vue",
-    "chunkName": "pages/single-service",
-    "_name": "_e48701a0"
+    "chunkName": "pages/single-service"
   },
   {
     "name": "testimonials",
     "path": "/testimonials",
     "component": "/Users/zaz/Documents/独立开发者/官网模版/dt/pages/testimonials.vue",
-    "chunkName": "pages/testimonials",
-    "_name": "_16c9a0b4"
+    "chunkName": "pages/testimonials"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/zaz/Documents/独立开发者/官网模版/dt/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_a85c61fc"
+    "chunkName": "pages/index"
   }
 ]

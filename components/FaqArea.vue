@@ -99,7 +99,7 @@
   }
 
   .ac.is-active .ac-q {
-    color: #ff5316 !important;
+    color: #5cb85c !important;
   }
   .ac>.ac-q::after {
     content: '+';
@@ -139,6 +139,6 @@
 
   .ac.is-active>.ac-q::after {
     content: '\2013';
-    color: #ff5316;
+    color: #5cb85c;
   }
 </style>
